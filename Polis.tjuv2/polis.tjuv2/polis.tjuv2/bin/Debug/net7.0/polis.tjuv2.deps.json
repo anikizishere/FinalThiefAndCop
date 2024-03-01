@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "polis.tjuv2/1.0.0": {
+        "runtime": {
+          "polis.tjuv2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polis.tjuv2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
